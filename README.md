@@ -1,7 +1,9 @@
-# postcss-px-to-viewport
+# postcss-px-to-viewport-new
 [![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
 
 English | [中文](README_CN.md) 
+
+同步GitHub最新版, 包含include配置的最新版postcss-px-to-viewport
 
 A plugin for [PostCSS](https://github.com/postcss/postcss) that generates viewport units (vw, vh, vmin, vmax) from pixel units.
 

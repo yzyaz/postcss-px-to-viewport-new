@@ -1,6 +1,6 @@
 {
-  "name": "postcss-px-to-viewport",
-  "description": "A CSS post-processor that converts px to viewport units (vw, vh, vmin, vmax).",
+  "name": "postcss-px-to-viewport-new",
+  "description": "同步GitHub最新版, 包含include配置, A CSS post-processor that converts px to viewport units (vw, vh, vmin, vmax).",
   "version": "1.1.1",
   "author": "Dmitry Karpunin <koderfunk@gmail.com>",
   "license": "MIT",
